@@ -120,4 +120,4 @@ java Main
 ```
 
 ### Author
-*Rishav Raj*
+*Khushi kumari*
