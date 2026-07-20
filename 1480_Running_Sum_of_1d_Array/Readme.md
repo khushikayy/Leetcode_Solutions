@@ -145,4 +145,4 @@ java Main
 
 
 ### Author
-*Rishav Raj*
+*Khushi Kumari*
